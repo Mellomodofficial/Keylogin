@@ -16,6 +16,10 @@
         "key": "Investor-Project",
         "expirydate": "7-12-2025",
         "Allowoffline": false
+    },
+        "device_id": "4eb9d815340c2c18",
+        "key": "INVESTOR15",
+        "expirydate": "10-12-2025",
+        "Allowoffline": false
     }
-        
 ]
